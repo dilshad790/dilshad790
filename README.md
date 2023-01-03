@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilshad790
 - 👀 I’m interested in real project
-- 🌱 I’m currently learning c++ programming language
+- 🌱 I’m currently working time on real project
 - 💞️ I’m looking to collaborate on project ...
 - 📫 How to reach me  gmail dilshadalamues786@gmail.com
 
