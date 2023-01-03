@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilshad790
+- 👋 Hi, I’m @dilshad786
 - 👀 I’m interested in real project
 - 🌱 I’m currently working time on real project
 - 💞️ I’m looking to collaborate on project ...
